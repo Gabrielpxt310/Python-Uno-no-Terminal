@@ -1,0 +1,173 @@
+Jogador[2] Descartou [ 5 - amar ]
+
+Jogador[3] Descartou [ <> - amar ]
+
+Jogador[2] Descartou [ 4 - amar ]
+
+Jogador[1] Descartou [ 6 - amar ]
+
+Jogador[4] Descartou [ 6 - verd ]
+
+Jogador[3] Descartou [ <> - verd ]
+
+Jogador[4] Descartou [ 9 - verd ]
+
+Jogador[1] Descartou [ +4 - bran ]
+
+Jogador[2] Descartou [ +4 - bran ]
+
+Jogador[3] Comprou 8x Cartas
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[1] Descartou [ 8 - azul ]
+
+Jogador[2] Descartou [ X - azul ]
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[4] Carta De Compra [1 - azul] Compativel com a carta de descarte
+Jogador[4] Descartou [ 1 - azul ]
+
+Jogador[1] Comprou 1x Carta
+
+Jogador[2] Descartou [ 2 - azul ]
+
+Jogador[3] Descartou [ 2 - verm ]
+
+Jogador[4] Descartou [ 4 - verm ]
+
+Jogador[1] Descartou [ 5 - verm ]
+
+Jogador[2] Descartou [ 5 - azul ]
+
+Jogador[3] Descartou [ 9 - azul ]
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[1] Comprou 1x Carta
+
+Jogador[2] Comprou 1x Carta
+
+Jogador[2] Carta De Compra [X - azul] Compativel com a carta de descarte
+Jogador[2] Descartou [ X - azul ]
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[4] Carta De Compra [+2 - azul] Compativel com a carta de descarte
+Jogador[4] Descartou [ +2 - azul ]
+
+Jogador[1] Descartou [ +2 - verm ]
+
+Jogador[2] Comprou 4x Cartas
+
+Jogador[3] Descartou [ 3 - verm ]
+
+Jogador[4] Descartou [ 0 - verm ]
+
+Jogador[1] Descartou [ <> - verm ]
+
+Jogador[4] Descartou [ 8 - verm ]
+
+Jogador[3] Descartou [ 5 - verm ]
+
+Jogador[2] Descartou [ 7 - verm ]
+
+Jogador[1] Descartou [ 7 - verm ]
+
+Jogador[4] Descartou [ 1 - verm ]
+
+Jogador[3] Descartou [ X - verm ]
+
+Jogador[1] Descartou [ X - verd ]
+
+Jogador[3] Descartou [ 7 - verd ]
+
+Jogador[2] Descartou [ # - bran ]
+
+Jogador[1] Comprou 1x Carta
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[3] Descartou [ +4 - bran ]
+
+Jogador[2] Descartou [ +2 - azul ]
+
+Jogador[1] Comprou 6x Cartas
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[3] Descartou [ +4 - bran ]
+
+Jogador[2] Comprou 4x Cartas
+
+Jogador[1] Descartou [ 7 - verd ]
+
+Jogador[4] Descartou [ 8 - verd ]
+
+Jogador[3] Descartou [ 5 - verd ]
+
+Jogador[2] Descartou [ 5 - azul ]
+
+Jogador[1] Descartou [ 4 - azul ]
+
+Jogador[4] Descartou [ 4 - amar ]
+
+Jogador[3] Descartou [ 6 - amar ]
+
+Jogador[2] Descartou [ <> - amar ]
+
+Jogador[3] Descartou [ 7 - amar ]
+
+Jogador[4] Descartou [ 5 - amar ]
+
+Jogador[1] Descartou [ 4 - amar ]
+
+Jogador[2] Descartou [ 4 - verd ]
+
+Jogador[3] Descartou [ 6 - verd ]
+
+Jogador[4] Descartou [ 8 - verd ]
+
+Jogador[1] Descartou [ +4 - bran ]
+
+Jogador[2] Descartou [ +4 - bran ]
+
+Jogador[3] Comprou 8x Cartas
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[4] Carta De Compra [<> - azul] Compativel com a carta de descarte
+Jogador[4] Descartou [ <> - azul ]
+
+Jogador[3] Descartou [ <> - azul ]
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[4] Carta De Compra [<> - azul] Compativel com a carta de descarte
+Jogador[4] Descartou [ <> - azul ]
+
+Jogador[3] Descartou [ # - bran ]
+
+Jogador[2] Comprou 1x Carta
+
+Jogador[1] Comprou 1x Carta
+
+Jogador[4] Comprou 1x Carta
+
+Jogador[3] Descartou [ 3 - verd ]
+
+Jogador[2] Descartou [ 3 - azul ]
+
+Jogador[1] Descartou [ 9 - azul ]
+
+Jogador[4] Descartou [ 6 - azul ]
+
+Jogador[3] Descartou [ 6 - amar ]
+
+Jogador[2] Descartou [ <> - amar ]
+
+Jogador[3] Descartou [ 9 - amar ]
+
+Jogador[4] Descartou [ 8 - amar ]
+
